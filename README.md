@@ -8,7 +8,7 @@
 
 This project was completed as part of the **DataCamp Data Scientist learning path**, covering the topic of **categorical data and memory-efficient storage in pandas**.
 
-The goal was to transform a raw dataset (`customer_train.csv`) from Training Data Ltd. into a highly optimized DataFrame — `ds_jobs_transformed` — by applying the most appropriate data types to each column and filtering the data for a specific business use case.
+The goal was to transform a raw dataset (`customer_train.csv`) from Training Data Ltd. into a highly optimized DataFrame`ds_jobs_transformed` by applying the most appropriate data types to each column and filtering the data for a specific business use case.
 
 ---
 
@@ -91,5 +91,3 @@ print(ds_jobs_transformed.memory_usage(deep=True).sum())
 This project is part of the [DataCamp](https://www.datacamp.com) Data Science curriculum. It is intended for learning purposes and to demonstrate practical pandas skills.
 
 ---
-
-*Happy coding! 🐍*
